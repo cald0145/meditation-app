@@ -4,7 +4,7 @@ import { LinearGradient } from "expo-linear-gradient";
 import { StatusBar } from "expo-status-bar";
 import CustomButton from "@/components/CustomButton";
 
-import beachImage from "../assets/meditation-images/beach.webp";
+import beachImage from "@/assets/meditation-images/beach.webp";
 import { useRouter } from "expo-router";
 import AppGradient from "@/components/AppGradient";
 
