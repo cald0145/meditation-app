@@ -53,7 +53,7 @@ const AffirmationPractice = () => {
             onPress={() => router.back()}
             className="absolute top-16 left-6 z-10"
           >
-            <AntDesign name="leftcircleo" size={50} color="white" />
+            <AntDesign name="leftcircleo" size={40} color="white" />
           </Pressable>
 
           <ScrollView className="mt-20" showsVerticalScrollIndicator={false}>
